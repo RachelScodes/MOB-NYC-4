@@ -36,7 +36,7 @@
     <td>1</td>
     <td></td>
     <td>01 - Sep 09<br>
-Getting Started<br>
+<a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/01">Getting Started</a><br>
 (Dog Photo App)</td>
   </tr>
   <tr>
