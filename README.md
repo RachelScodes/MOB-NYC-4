@@ -20,14 +20,14 @@
 
 <table>
   <tr>
-    <td>Week</td>
-    <td>Unit</td>
-    <td>Mon</td>
-    <td>Wed</td>
+    <td><strong>Week</strong></td>
+    <td><strong>Unit</strong></td>
+    <td><strong>Mon</strong></td>
+    <td><strong>Wed</strong></td>
   </tr>
   <tr>
     <td>0</td>
-    <td></td>
+    <td>3</td>
     <td>Prework</td>
     <td>Prework</td>
   </tr>
