@@ -34,7 +34,7 @@ Students will be able to:
 * Left/right reveals
 * Pull-down shelf
 * Pull-up shelf
-* Accessory Views
+* Swipe-to-reveal
 
 ### Activity - App Screenshots
 
@@ -47,12 +47,9 @@ Screenshot some apps, identify one example each of:
 * Dialog boxes
 
 
-
 ## Review of Views
 
-
 *We’ll review a few of the views we’ve used before, talk about their "attributes," and play around a bit more.*
-
 
 *Now let’s talk about more common views that we’ll be using for the upcoming assignment.*
 
