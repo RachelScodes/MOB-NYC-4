@@ -45,7 +45,7 @@
     <td></td>
     <td>02 - Sep 16<br>
 <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/02">Mobile UI Design and Storyboards</a><br>
-Assessment 1 (Vanity App) assigned</td>
+<a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Assessments/Assessment%201">Assessment 1 (Vanity App) assigned</a></td>
   </tr>
   <tr>
     <td>3</td>

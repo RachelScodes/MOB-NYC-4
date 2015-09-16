@@ -1,6 +1,6 @@
 # Assessments
 
-* Assessment 1 - Vanity App
+* [Assessment 1 - Vanity App](https://github.com/ga-students/MOB-NYC-4/tree/master/Assessments/Assessment%201)
 * Assessment 2 - Swift
 * Assessment 3 - Apps with Code
 * Assessment 4 - Layout Patterns
