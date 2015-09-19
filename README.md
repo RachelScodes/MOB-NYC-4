@@ -51,7 +51,7 @@
     <td>3</td>
     <td>2</td>
     <td>03 - Sep 21<br>
-Intro to Swift<br>
+<a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/03">Swift Values and Types</a><br>
 Pre-work due · Assessment 2 assigned</td>
     <td>04 - Sep 23<br>
 Control Flow - Conditionals and Loops<br>
