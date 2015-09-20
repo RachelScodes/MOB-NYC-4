@@ -54,7 +54,7 @@
 <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/03">Swift Values and Types</a><br>
 Pre-work due · Assessment 2 assigned</td>
     <td>04 - Sep 23<br>
-Control Flow - Conditionals and Loops<br>
+<a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/04">Control Flow - Conditionals and Loops</a><br>
 Assessment 1 due</td>
   </tr>
   <tr>
