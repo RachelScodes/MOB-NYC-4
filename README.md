@@ -52,7 +52,7 @@
     <td>2</td>
     <td>03 - Sep 21<br>
 <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/03">Swift Values and Types</a><br>
-Pre-work due · Assessment 2 assigned</td>
+Pre-work due · <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Assessments/Assessment%202">Assessment 2 assigned</a></td>
     <td>04 - Sep 23<br>
 <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/04">Control Flow - Conditionals and Loops</a><br>
 Assessment 1 due</td>
