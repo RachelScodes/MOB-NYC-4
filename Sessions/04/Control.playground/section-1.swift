@@ -31,17 +31,18 @@ println(sum)
 
 // Check for prime numbers (in a very dumb way).
 let toCheck = 289
-for (var i=2; i<toCheck; i++) {
+for var i=2; i<toCheck; i++ {
     println(i)
     if toCheck % i == 0 {
         println("composite!")
         break
     }
 }
+
 // Advanced students: try to make this more efficient. Use a while loop.
 
-// Using continue:
-for (var i=2; i<toCheck; i++) {
+// Using continue to skip over parts of the loop's block.
+for var i=2; i<toCheck; i++ {
     if i % 2 == 0 { continue }
     println(i)
     if toCheck % i == 0 {

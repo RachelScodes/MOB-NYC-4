@@ -1,17 +1,31 @@
 // Optionals
 
-// A sample options. Can be an Integer or nil.
-var opt : Int?
-opt
+// Strings can be concatenated like so:
+let first = "John"
+let last = "Doe"
+first + " " + last
 
-// Use CMD + / to toggle this line as a comment. Look how the conditional changes.
-opt = 10
+// Make this string an "Optional String."
+var name : String?
 
-if let _opt = opt {
-    // This is how we "interpolate" a value into a string.
-    println("has a value: \(_opt)")
+// Use CMD + / to toggle this line. See how interpolation changes.
+name = "Toshi"
+
+// Note how this says nil, or Optional("Toshi") instead of just Toshi.
+println("My  pup's name is \(name)")
+
+// To "unwrap" the Optional properly, we have to use this if let syntax...
+if let _name = name {
+    // If the Optional holds a String, instead of nil, _name will equal
+    // the value of that String.
+    println("I know my pup's name!!! And it's " + _name)
 } else {
-    println("still nil")
+    // Here, the Optional contained nil instead.
+    println("Nope, it's nil.")
 }
 
-// Change opt = 10 to other values to see how the string interpolation works.
+// To unwrap an Optional known to not be nil, use !.
+let currentTemperature : Int?
+currentTemperature = 60
+currentTemperature!
+
