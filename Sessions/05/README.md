@@ -26,3 +26,16 @@
         * each line should do one thing
         * each variable should do one thing
         * each function should do one thing
+
+## Intro Material
+
+### We Heart Swift
+
+Chapter 7 on Functions  
+(Stop before "Constant and Variable Parameters")
+
+### Apple's Swift Documentation
+
+Section on Functions  
+(Stop before "Functions with Multiple Return Values")  
+<https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Functions.html>
