@@ -42,7 +42,3 @@ Section on Functions
 
 
 ## For next class
-
-* We Heart Swift – Chapter 6 on Arrays, Chapter 11 on Dictionaries
-* Apple's Documentation – Collection Types  
-https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/CollectionTypes.html
