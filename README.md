@@ -42,7 +42,7 @@
   <tr>
     <td>2</td>
     <td>1</td>
-    <td></td>
+    <td style="background-color:#fff0f0">Sep 14<br><strong>No class.</strong><br>(Rosh Hashana)</td>
     <td>02 - Sep 16<br>
 <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/02">Mobile UI Design and Storyboards</a><br>
 <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Assessments/Assessment%201">Assessment 1 (Vanity App) assigned</a></td>
@@ -82,7 +82,7 @@ Assessment 1 due</td>
   <tr>
     <td>6</td>
     <td>2</td>
-    <td></td>
+    <td style="background-color:#fff0f0">Oct 12<br><strong>No class.</strong><br>(Columbus Day)</td>
     <td>
       09 - Oct 14<br>
       Data structures - Arrays and Dicts
@@ -124,7 +124,7 @@ Problem-solving in code workshop</td>
     <td>16 - Nov 9<br>
 Persistence 1<br>
 Assessment 4 due · Assessment 5 assigned</td>
-    <td></td>
+    <td style="background-color:#fff0f0">Nov 11<br><strong>No class.</strong><br>(Veterans Day)</td>
   </tr>
   <tr>
     <td>11</td>
@@ -141,7 +141,7 @@ Assessment 5 due · Assessment 6 assigned</td>
     <td>19 - Nov 23<br>
 Networking 2<br>
 Final Project assigned</td>
-    <td></td>
+    <td style="background-color:#fff0f0">Nov 25<br><strong>No class.</strong><br>(Day before Thanksgiving)</td>
   </tr>
   <tr>
     <td>13</td>
