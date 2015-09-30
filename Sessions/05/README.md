@@ -39,6 +39,3 @@ Chapter 7 on Functions
 Section on Functions  
 (Stop before "Functions with Multiple Return Values")  
 <https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Functions.html>
-
-
-## For next class
