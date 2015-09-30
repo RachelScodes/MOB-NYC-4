@@ -2,16 +2,18 @@
 
 ## Learning Objectives
 
+* Define your own types, called classes.
+* Instantiate those classes into instances.
+* Set and get properties on classes.
+* Describe how to define and call methods on an instance.
+* Build derived classes from existing classes.
 
 ## Topics
 
-
-## Lesson Plan
-
-
-
-## For Next Class
-
-* We Heart Swift – Chapter 6 on Arrays, Chapter 11 on Dictionaries
-* Apple's Documentation – Collection Types  
-<https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/CollectionTypes.html>
+* Classes
+  * Defining
+  * Methods
+  * Initializers
+  * Properties
+* Extending
+  * Polymorphism
