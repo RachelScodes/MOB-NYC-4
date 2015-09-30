@@ -86,7 +86,7 @@ eric.nameLength
 // At this point, eric.age is nil.
 eric.age
 
-
+// TODO: Add a field to the Dog class that refers to the dog's owner.
 
 
 
@@ -117,9 +117,11 @@ class Line {
     }
 }
 
-let otherPoint = Point(x:10000000.0, y:0.0)
+let otherPoint = Point(x:40.0, y:30.0)
 
 // Builds an axis from two points.
 var xAxis = Line(startPoint:origin, endPoint:otherPoint)
+
+// TODO: Add a method to Line that computes the Line's length.
 
 
