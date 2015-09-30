@@ -64,7 +64,7 @@ Assessment 1 due</td>
 <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/05">Functions</a></td>
     <td>
       06 - Sep 30<br>
-      OOP 1
+      <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/05">OOP 1</a>
     </td>
   </tr>
   <tr>

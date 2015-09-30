@@ -7,7 +7,7 @@ Find course materials for each class session here.
 [03 - Sep 21](https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/03)  
 [04 - Sep 23](https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/04)  
 [05 - Sep 28](https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/05)  
-06 - Sep 30  
+[06 - Sep 30](https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/06)  
 07 - Oct 5  
 08 - Oct 7  
 09 - Oct 14  
