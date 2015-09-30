@@ -64,19 +64,19 @@ Assessment 1 due</td>
 <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/05">Functions</a></td>
     <td>
       06 - Sep 30<br>
-      <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/05">OOP 1</a>
+      <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/05">Classes and Objects</a>
     </td>
   </tr>
   <tr>
     <td>5</td>
     <td>2</td>
     <td>07 - Oct 5<br>
-      OOP 2 + Coding Review<br>
-      Assessment 2 due
+      Powering UI with Code<br>
+      Assessment 2 due<br>
+      Assessment 3 assigned
     </td>
     <td>08 - Oct 7<br>
-      Powering UI with Code<br>
-      Assessment 3 assigned
+      Object-Oriented Programming
     </td>
   </tr>
   <tr>
