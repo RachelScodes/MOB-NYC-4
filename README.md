@@ -72,40 +72,51 @@ Assessment 1 due</td>
     <td>2</td>
     <td>07 - Oct 5<br>
       <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/07">Powering UI with Code</a><br>
-      Assessment 2 due<br>
-      Assessment 3 assigned
+      Assessment 2 due
     </td>
     <td>08 - Oct 7<br>
-      Object-Oriented Programming
+      Object-Oriented Programming<br>
+      Assessment 3 assigned
     </td>
   </tr>
   <tr>
     <td>6</td>
     <td>2</td>
-    <td style="background-color:#fff0f0">Oct 12<br><strong>No class.</strong><br>(Columbus Day)</td>
+    <td style="background-color:#fff0f0">
+      Oct 12<br>
+      <strong>No class.</strong><br>(Columbus Day)
+    </td>
     <td>
       09 - Oct 14<br>
-      Data structures - Arrays and Dicts
+      Data Structures - Tuples, Arrays, and Dictionaries
     </td>
   </tr>
   <tr>
     <td>7</td>
     <td>1</td>
-    <td>10 - Oct 19<br>
-UITableView<br>
-Assessment 3 due</td>
-    <td>11 - Oct 21<br>
-App Building Process<br>
-(Unit Converter App)<br>
-Midterm assigned</td>
+    <td>
+      10 - Oct 19<br>
+      UITableView<br>
+      Assessment 3 due
+    </td>
+    <td>
+      11 - Oct 21<br>
+      App Building Process<br>
+      (Unit Converter App)<br>
+      Midterm assigned
+    </td>
   </tr>
   <tr>
     <td>8</td>
     <td></td>
-    <td>12 - Oct 26<br>
-Midterm Lab</td>
-    <td>13 - Oct 28<br>
-Midterm Lab</td>
+    <td>
+      12 - Oct 26<br>
+      Midterm Lab
+    </td>
+    <td>
+      13 - Oct 28<br>
+      Midterm Lab
+    </td>
   </tr>
   <tr>
     <td>9</td>
