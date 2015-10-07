@@ -75,8 +75,8 @@ Assessment 1 due</td>
       Assessment 2 due
     </td>
     <td>08 - Oct 7<br>
-      Object-Oriented Programming<br>
-      Assessment 3 assigned
+      <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/07">Object-Oriented Programming</a><br>
+      <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Assessments/Assessment%203">Assessment 3 assigned</a>
     </td>
   </tr>
   <tr>
