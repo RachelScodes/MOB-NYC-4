@@ -71,7 +71,7 @@ Assessment 1 due</td>
     <td>5</td>
     <td>2</td>
     <td>07 - Oct 5<br>
-      <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/07">Powering UI with Code</a><br>
+      <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/07">Powering Apps with Code</a><br>
       Assessment 2 due
     </td>
     <td>08 - Oct 7<br>
