@@ -96,13 +96,13 @@ Assessment 1 due</td>
     <td>1</td>
     <td>
       10 - Oct 19<br>
-      UITableView<br>
-      Assessment 3 due
+      UITableView
     </td>
     <td>
       11 - Oct 21<br>
       App Building Process<br>
       (Unit Converter App)<br>
+      Assessment 3 due<br>
       Midterm assigned
     </td>
   </tr>
