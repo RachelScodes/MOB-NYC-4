@@ -75,7 +75,7 @@ Assessment 1 due</td>
       Assessment 2 due
     </td>
     <td>08 - Oct 7<br>
-      <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/07">Object-Oriented Programming</a><br>
+      <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/08">Object-Oriented Programming</a><br>
       <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Assessments/Assessment%203">Assessment 3 assigned</a>
     </td>
   </tr>
@@ -88,7 +88,7 @@ Assessment 1 due</td>
     </td>
     <td>
       09 - Oct 14<br>
-      Data Structures - Tuples, Arrays, and Dictionaries
+      <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/09">Data Structures - Tuples, Arrays, and Dictionaries</a>
     </td>
   </tr>
   <tr>
