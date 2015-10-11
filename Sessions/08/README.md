@@ -15,3 +15,8 @@
 * Introduce class-level properties/methods
 * Using Segues to pass data from a View Controller to another
 * switch/case statements
+
+## Apple's Documentation Links
+
+* [Type casting](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TypeCasting.html)
+* [Enumerations](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/Enumerations.html)
