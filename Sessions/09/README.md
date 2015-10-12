@@ -19,13 +19,16 @@
 ## Topics
 
 * Arrays
-    * methods and properties
-    * map
-    * filter
+    * Declaring the type
+    * Explicit declaration
+    * Indexing and setting elements
+    * Methods and properties
+    * map and filter
 * Dictionaries
-    * declaring the type
-    * setting values by key
-    * methods and properties
+    * Declaring the type
+    * Explicit declarations
+    * Getting and setting values by key
+    * Methods and properties
 * Tuples
     * Convenient way to bundle values together
     * The type of the tuple is the ordered collection of types it contains. Must be consistent.
