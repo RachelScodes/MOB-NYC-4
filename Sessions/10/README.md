@@ -99,30 +99,31 @@ Map data elements to a section and row
 * Add data to show in the table.
 * Provide the two required methods cellForRowAtIndexPath: and numberOfRowsInSection:.
 
-    func tableView(
-            tableView: UITableView,
-            numberOfRowsInSection section: Int
-        ) -> Int
-    {
-        return self.items.count
-    }
+```
+func tableView(
+        tableView: UITableView,
+        numberOfRowsInSection section: Int
+    ) -> Int
+{
+    return self.items.count
+}
 
-    func tableView(
-            tableView: UITableView,
-            cellForRowAtIndexPath indexPath: NSIndexPath
-        ) -> UITableViewCell
-    {
-        let cell = tableView.dequeueReusableCellWithIdentifier(
-            "note_cell",
-            forIndexPath: indexPath
-            )
+func tableView(
+        tableView: UITableView,
+        cellForRowAtIndexPath indexPath: NSIndexPath
+    ) -> UITableViewCell
+{
+    let cell = tableView.dequeueReusableCellWithIdentifier(
+        "note_cell",
+        forIndexPath: indexPath
+        )
 
-        let item = self.items[indexPath.row]
-        cell.textLabel!.text = item
+    let item = self.items[indexPath.row]
+    cell.textLabel!.text = item
 
-        return cell
-    }
-
+    return cell
+}
+```
 
 Note that these objects (dataSource and delegate) can be:
 
@@ -157,13 +158,14 @@ Note that these objects (dataSource and delegate) can be:
 
 How to reference views in a table view cell without a NIB or custom class. Create a new prototype to change the appearance of the Note cell.
 
+```
+let cell = tableView.dequeueReusableCellWithIdentifier(
+    "cell_identifier",
+    forIndexPath:indexPath
+    )
 
-    let cell = tableView.dequeueReusableCellWithIdentifier(
-        "cell_identifier",
-        forIndexPath:indexPath
-        )
+let title = cell.viewWithTag(1) as UILabel
+let checkbox = cell.viewWithTag(2) as UIButton
 
-    let title = cell.viewWithTag(1) as UILabel
-    let checkbox = cell.viewWithTag(2) as UIButton
-
-    let task = TaskManager.sharedInstance().getTask(indexPath.row)
+let task = TaskManager.sharedInstance().getTask(indexPath.row)
+```
