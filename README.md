@@ -96,7 +96,7 @@ Assessment 1 due</td>
     <td>1</td>
     <td>
       10 - Oct 19<br>
-      UITableView
+      <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/10">Table Views</a>
     </td>
     <td>
       11 - Oct 21<br>
