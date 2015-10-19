@@ -132,26 +132,48 @@ Note that these objects (dataSource and delegate) can be:
 
 ### Building a Notes app
 
-1. Build a data model to manage notes.
-2. Note and NoteManager class.
-3. Singleton for the NoteManager.
-4. Methods to create a note, get a note, etc.
-5. Add a UITableView to the ViewController.
-6. Create a NoteViewController with title (UITextField) and content (UITextView) views.
-7. Add a + for creating a new note.
-8. Hook up two segues.
-    1. create_note segue
-    2. edit_note segue
-9. Hook up the UITableView using dataSource.
-10. Define the two require methods (numberOfRowsInSection and cellForRowAtIndexPath)
-11. Reference the table view in an IBOutlet.
-12. Override prepareForSegue.
-13. Check for the segue identifier ("edit_note" or "new_note").
-14. Use the sender: parameter to get the UITableViewCell.
-15. Use the table IBOutlet reference to get the indexPath with indexPathForCell.
-16. Get the destinationViewController and set the note to be edited.
-17. If creating a Note, then create one and pass a blank on into the destinationViewController.
-18. In NoteViewController, whenever edits occur to the views, set the properties on the Note.
+1. Build a **data model** to manage notes.
+    1. Note and NoteManager class.
+    2. Note class should have a title (String) and content (String).
+    3. Singleton for the NoteManager.
+    4. Methods to
+        1. create a new note
+        2. get a note by index
+        3. get number of notes
+2. Add a **UITableView** to the ViewController.
+    5. Add a prototype, use Subtitle type.
+    6. Reference the table view in an IBOutlet.
+    7. Add a + for creating a new note.
+3. Create **NoteViewController**
+    8. Add title (UITextField) and content (UITextView) views.
+    9. Create a NoteViewController.swift
+    10. Hook them up with IBOutlets.
+    11. Add the note property.
+    12. In viewDidLoad, populate the title and content views with the note's data.
+    13. In viewWillDisappear , populate the note with the title and content view values.
+4. **Segues**
+    14. Make create_note segue from the +.
+    15. Make edit_note segue from the "selection" action of the cell.
+5. **DataSource protocol**
+    16. Hook up the UITableView's **dataSource** to ViewController.
+    17. Add the UITableViewDataSource protocol to ViewController.
+    18. Define the two require methods (numberOfRowsInSection and cellForRowAtIndexPath)
+6. **cellForRowAtIndexPath** should:
+    19. Get the Note.
+    20. Get a Cell from dequeueReusableCellWithIdentifier.
+    21. Populate the textLabel with the Note's title.
+    22. Populate the detailTextLabel with the Note's excerpt.
+    23. Return the cell.
+7. Override **prepareForSegue**.
+    24. Get the NoteViewController from segue.destinationViewController.
+    25. Check for the segue identifier ("edit_note" or "new_note").
+    26. If creating a Note, then create one and pass a blank on into the NoteViewController. destinationViewController.
+    27. If editing a Note, get it from the NoteManager.
+    28. Use the sender: parameter to get the UITableViewCell.
+    29. Use the table IBOutlet reference to get the indexPath with indexPathForCell.
+    30. Set the note to be edited on the NoteViewController.
+8. Override **viewWillAppear** in ViewController
+    31. Reload the data for the table to display the new cell.
 
 
 ### Customizing a cell prototype.
