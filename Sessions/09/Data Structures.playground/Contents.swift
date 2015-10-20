@@ -46,6 +46,11 @@ words.first
 words[0..<2]
 words[2...4]
 
+// Use indexOf to return the index for a given element. It's Optional, so it will
+// return nil if the element is not found!
+words.indexOf("doctor")
+
+
 
 // To make an Array mutable (that is, so we can change it), use var like any other variable:
 var shuttles = ["Columbia", "Discovery", "Challenger", "Endeavor", "Atlantis"]
@@ -83,6 +88,28 @@ for shuttle in reversedShuttles {
 
 // To actually produce an Array in reverse order, construct it using the Array() constructor:
 Array(reversedShuttles)
+
+
+
+// An example using NASA probe names.
+var probes = ["Voyager", "Cassini-Huygens", "Curiosity", "Galileo", "Juno"]
+
+// Add another probe name at the end of the Array.
+probes.append("New Horizons")
+probes.first
+probes.last
+probes.count
+
+// Inserts an element into the Array at index=0, i.e. the beginning of the Array.
+probes.insert("Viking", atIndex:0)
+
+// Remove the 2nd element of the Array.
+probes.removeAtIndex(1)
+
+// We can concatenate Arrays of the same type using + and +=. This adds 3 elements at once:
+probes += ["Kepler", "Mariner", "Magellan"]
+probes.count
+
 
 
 // We'll be using this Dog class in the following examples about sorting and filtering.
