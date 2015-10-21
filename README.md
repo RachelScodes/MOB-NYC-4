@@ -100,12 +100,13 @@ Assessment 1 due</td>
     </td>
     <td>
       11 - Oct 21<br>
-      App Building Process<br>
-      (Unit Converter App)<br>
+      <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/11">App Building Process<br>
+      (Unit Converter App)</a><br>
       Assessment 3 due<br>
-      Midterm assigned
+      <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Projects/Midterm">Midterm assigned</a>
     </td>
   </tr>
+
   <tr>
     <td>8</td>
     <td></td>
@@ -118,42 +119,68 @@ Assessment 1 due</td>
       Midterm Lab
     </td>
   </tr>
+
   <tr>
     <td>9</td>
     <td>1</td>
-    <td>14 - Nov 2<br>
-Auto Layout 1<br>
-Midterm due<br>
-Assessment 4 assigned</td>
-    <td>15 - Nov 4<br>
-Auto Layout 2<br>
-Problem-solving in code workshop</td>
+    <td>
+      14 - Nov 2<br>
+      Auto Layout 1<br>
+      Assessment 4 assigned
+    </td>
+    <td>
+      15 - Nov 4<br>
+      Midterm due<br>
+      Auto Layout 2
+    </td>
   </tr>
+
   <tr>
     <td>10</td>
     <td>3</td>
-    <td>16 - Nov 9<br>
-Persistence 1<br>
-Assessment 4 due · Assessment 5 assigned</td>
-    <td style="background-color:#fff0f0">Nov 11<br><strong>No class.</strong><br>(Veterans Day)</td>
+    <td>
+      16 - Nov 9<br>
+      Networking 1<br>
+      Assessment 4 due<br>
+      Assessment 5 assigned
+    </td>
+    <td style="background-color:#fff0f0">
+      Nov 11<br>
+      <strong>No class.</strong><br>
+      (Veterans Day)
+    </td>
   </tr>
+
   <tr>
     <td>11</td>
     <td>3</td>
-    <td>17 - Nov 16<br>
-Persistence 2</td>
-    <td>18 - Nov 18<br>
-Networking 1<br>
-Assessment 5 due · Assessment 6 assigned</td>
+    <td>
+      17 - Nov 16<br>
+      Networking 2
+    </td>
+    <td>
+      18 - Nov 18<br>
+      Persistence 1<br>
+      Assessment 5 due<br>
+      Assessment 6 assigned
+    </td>
   </tr>
+
   <tr>
     <td>12</td>
     <td>3</td>
-    <td>19 - Nov 23<br>
-Networking 2<br>
-Final Project assigned</td>
-    <td style="background-color:#fff0f0">Nov 25<br><strong>No class.</strong><br>(Day before Thanksgiving)</td>
+    <td>
+      19 - Nov 23<br>
+      Persistence 2<br>
+      Final Project assigned
+    </td>
+    <td style="background-color:#fff0f0">
+      Nov 25<br>
+      <strong>No class.</strong><br>
+      (Day before Thanksgiving)
+    </td>
   </tr>
+
   <tr>
     <td>13</td>
     <td></td>
