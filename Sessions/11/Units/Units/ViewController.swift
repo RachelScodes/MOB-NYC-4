@@ -81,7 +81,6 @@ class ViewController: UIViewController,
     // MARK: - Interaction
     
     @IBAction func onButtonTapped(sender:UIButton) {
-        print(sender.tag)
         
         // We've set a "tag" on the buttons 1 through 9 equal to the numbers they
         // represent. E.g. Button with "1" has tag == 1.
@@ -108,6 +107,15 @@ class ViewController: UIViewController,
     
     // Call this method when a user taps 0, 1, 2, 3, 4, 5, 6, 7, 8, 9.
     func userTappedDigit(digit:Int) {
+        if digit == 0 {
+            if self.input == "0" {
+                return
+            }
+        }
+        
+        if self.input == "0" {
+            self.input = ""
+        }
         self.input += String(digit)
         self.update()
     }
@@ -120,8 +128,14 @@ class ViewController: UIViewController,
     
     // Call this when a user taps the dot button.
     func userTappedDot() {
-        self.input += "."
-        self.update()
+        if !self.input.containsString(".") {
+            if self.input.characters.count == 0 {
+                self.input += "0."
+            } else {
+                self.input += "."
+            }
+            self.update()
+        }
     }
     
     
