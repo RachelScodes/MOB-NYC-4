@@ -125,8 +125,8 @@ Assessment 1 due</td>
     <td>1</td>
     <td>
       14 - Nov 2<br>
-      Auto Layout 1<br>
-      Assessment 4 assigned
+      <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/14">Auto Layout 1</a><br>
+      <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Assessments/Assessment%204">Assessment 4 assigned</a>
     </td>
     <td>
       15 - Nov 4<br>
