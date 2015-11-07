@@ -125,13 +125,13 @@ Assessment 1 due</td>
     <td>1</td>
     <td>
       14 - Nov 2<br>
-      <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/14">Auto Layout 1</a><br>
-      <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Assessments/Assessment%204">Assessment 4 assigned</a>
+      <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/14">Auto Layout 1</a>
     </td>
     <td>
       15 - Nov 4<br>
       Midterm due<br>
-      Auto Layout 2
+      Auto Layout 2<br>
+      <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Assessments/Assessment%204">Assessment 4 assigned</a>
     </td>
   </tr>
 
@@ -141,13 +141,13 @@ Assessment 1 due</td>
     <td>
       16 - Nov 9<br>
       Networking 1<br>
-      Assessment 4 due<br>
       Assessment 5 assigned
     </td>
     <td style="background-color:#fff0f0">
       Nov 11<br>
       <strong>No class.</strong><br>
-      (Veterans Day)
+      (Veterans Day)<br>
+      Assessment 4 due
     </td>
   </tr>
 
