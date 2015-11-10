@@ -140,8 +140,8 @@ Assessment 1 due</td>
     <td>3</td>
     <td>
       16 - Nov 9<br>
-      Networking 1<br>
-      Assessment 5 assigned
+      <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/16">Networking 1</a><br>
+      https://github.com/ga-students/MOB-NYC-4/tree/master/Assessments/Assessment%205">Assessment 5 assigned</a>
     </td>
     <td style="background-color:#fff0f0">
       Nov 11<br>
