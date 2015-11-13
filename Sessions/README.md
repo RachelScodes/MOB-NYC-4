@@ -15,9 +15,9 @@ Find course materials for each class session here.
 [11 - Oct 21](https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/11)  
 12 - Oct 26  
 13 - Oct 28  
-14 - Nov 2  
+[14 - Nov 2](https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/14)  
 15 - Nov 4  
-16 - Nov 9  
+[16 - Nov 9](https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/16)  
 17 - Nov 16  
 18 - Nov 18  
 19 - Nov 23  
