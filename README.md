@@ -156,11 +156,11 @@ Assessment 1 due</td>
     <td>3</td>
     <td>
       17 - Nov 16<br>
-      Networking 2
+      <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/17">Networking 2</a>
     </td>
     <td>
       18 - Nov 18<br>
-      Persistence 1<br>
+      <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/18">Persistence 1</a><br>
       Assessment 5 due<br>
       Assessment 6 assigned
     </td>
