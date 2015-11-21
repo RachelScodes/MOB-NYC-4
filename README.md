@@ -172,7 +172,7 @@ Assessment 1 due</td>
     <td>
       19 - Nov 23<br>
       Persistence 2<br>
-      Final Project assigned
+      Final Project pitch due
     </td>
     <td style="background-color:#fff0f0">
       Nov 25<br>
@@ -184,10 +184,11 @@ Assessment 1 due</td>
   <tr>
     <td>13</td>
     <td></td>
-    <td>20 - Nov 30<br>
-Lab<br>
-Final Project pitch due<br>
-Assessment 6 due</td>
+    <td>
+      20 - Nov 30<br>
+      Lab session<br>
+      Assessment 6 due
+    </td>
     <td>21 - Dec 2<br>
 Lab</td>
   </tr>
