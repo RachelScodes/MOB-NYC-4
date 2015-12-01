@@ -162,7 +162,7 @@ Assessment 1 due</td>
       18 - Nov 18<br>
       <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/18">Persistence 1</a><br>
       Assessment 5 due<br>
-      Assessment 6 assigned
+      <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Assessments/Assessment%206">Assessment 6 assigned</a>
     </td>
   </tr>
 
@@ -171,7 +171,7 @@ Assessment 1 due</td>
     <td>3</td>
     <td>
       19 - Nov 23<br>
-      Persistence 2<br>
+      <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/19">Persistence 2</a><br>
       Final Project pitch due
     </td>
     <td style="background-color:#fff0f0">
