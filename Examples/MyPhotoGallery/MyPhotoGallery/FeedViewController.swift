@@ -130,7 +130,8 @@ class FeedViewController: UIViewController, UICollectionViewDelegateFlowLayout, 
     
     //MARK: UICollectionViewFlowLayoutDelegate
     func collectionView(collectionView: UICollectionView, layout collectionViewLayout: UICollectionViewLayout, sizeForItemAtIndexPath indexPath: NSIndexPath) -> CGSize {
-        return CGSize(width: collectionView.bounds.width, height: collectionView.bounds.width)
+        let photoCellWidth = collectionView.bounds.width / 2
+        return CGSize(width: photoCellWidth, height: photoCellWidth)
     }
     
     //MARK: UIImagePickerControllerDelegate

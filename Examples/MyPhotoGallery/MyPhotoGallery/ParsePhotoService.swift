@@ -44,7 +44,7 @@ class ParsePhotoService: PhotoServiceProtocol {
         
         let query = PFQuery(className: "Photo")
         query.orderByDescending("createdAt")
-        query.limit = 5
+        query.limit = 10
         query.findObjectsInBackgroundWithBlock { pfObjects, error in
             if let _ = error {
                 completion(Result.Failure("failure to find Photo objects on Parse"))
