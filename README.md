@@ -204,7 +204,8 @@ Lab</td>
     <td>15</td>
     <td></td>
     <td>24 - Dec 14<br>
-Lab</td>
+        <a href="https://github.com/ga-students/MOB-NYC-4/tree/master/Sessions/24">Lab</a>
+    </td>
     <td>25 - Dec 16<br>
 Final Project Presentations</td>
   </tr>
